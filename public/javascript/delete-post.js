@@ -11,7 +11,7 @@ async function deleteFormHandler(event) {
     if (response.ok) {
         document.location.replace('/dashboard/');
     } else {
-        alert(respose.statusText);
+        alert(response.statusText);
     }
     }
 document.querySelector('.delete-post-btn').addEventListener('click', deleteFormHandler);
