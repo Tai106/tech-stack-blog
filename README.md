@@ -20,6 +20,7 @@
 * Go to deployed link via Heroku
 
 # Screenshots
+* ![tech stach blg](https://user-images.githubusercontent.com/92614793/166168382-e1479862-f645-49ee-aa9f-f25668911487.jpg)
 
 
   
